@@ -1,0 +1,53 @@
+[
+  {
+    "email": "john.smith@example.com",
+    "first_name": "John",
+    "last_name": "Smith",
+    "age": 35,
+    "location": "New York",
+    "total_purchases": 12,
+    "total_revenue": 1450.00,
+    "status": "active"
+  },
+  {
+    "email": "sarah.johnson@example.com",
+    "first_name": "Sarah",
+    "last_name": "Johnson",
+    "age": 28,
+    "location": "Los Angeles",
+    "total_purchases": 3,
+    "total_revenue": 275.50,
+    "status": "active"
+  },
+  {
+    "email": "mike.wilson@example.com",
+    "first_name": "Mike",
+    "last_name": "Wilson",
+    "age": 42,
+    "location": "Chicago",
+    "total_purchases": 0,
+    "total_revenue": 0,
+    "status": "prospect"
+  },
+  {
+    "email": "emily.davis@example.com",
+    "first_name": "Emily",
+    "last_name": "Davis",
+    "age": 31,
+    "location": "Houston",
+    "total_purchases": 25,
+    "total_revenue": 3200.00,
+    "status": "active"
+  },
+  {
+    "email": "david.brown@example.com",
+    "first_name": "David",
+    "last_name": "Brown",
+    "age": 55,
+    "location": "Phoenix",
+    "total_purchases": 8,
+    "total_revenue": 890.00,
+    "days_since_last_purchase": 45,
+    "status": "at_risk"
+  }
+]

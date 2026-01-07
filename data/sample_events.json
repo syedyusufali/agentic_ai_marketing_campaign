@@ -1,0 +1,50 @@
+[
+  {
+    "customer_id": "john.smith@example.com",
+    "event_type": "purchase",
+    "properties": {
+      "revenue": 125.00,
+      "order_id": "ORD-001"
+    },
+    "source": "web",
+    "timestamp": "2024-12-15T10:30:00"
+  },
+  {
+    "customer_id": "john.smith@example.com",
+    "event_type": "email_open",
+    "properties": {
+      "campaign_id": "holiday-2024"
+    },
+    "source": "email",
+    "timestamp": "2024-12-20T08:15:00"
+  },
+  {
+    "customer_id": "sarah.johnson@example.com",
+    "event_type": "page_view",
+    "properties": {
+      "page": "/products/shoes"
+    },
+    "source": "web",
+    "timestamp": "2024-12-22T14:45:00"
+  },
+  {
+    "customer_id": "sarah.johnson@example.com",
+    "event_type": "add_to_cart",
+    "properties": {
+      "product_id": "PROD-123",
+      "price": 79.99
+    },
+    "source": "web",
+    "timestamp": "2024-12-22T14:48:00"
+  },
+  {
+    "customer_id": "emily.davis@example.com",
+    "event_type": "purchase",
+    "properties": {
+      "revenue": 450.00,
+      "order_id": "ORD-005"
+    },
+    "source": "mobile",
+    "timestamp": "2024-12-18T16:20:00"
+  }
+]
